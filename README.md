@@ -20,7 +20,7 @@ Frontend: React, HTML, CSS, TailwindCSS, Bootstrap
 
 Backend: Django, FastAPI
 
-Databases: MySQL, MongoDB
+Databases: MySQL, MongoDB, PostgreSQL
 
 Tools: GitHub, VS Code, Postman, MongoDB Atlas
 
