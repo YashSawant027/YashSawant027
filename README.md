@@ -1,4 +1,4 @@
-##👋 About Me
+## 👋 About Me
 
 I’m a Software Developer with a strong foundation in full-stack web development and a growing focus on AI-powered applications. Currently pursuing a BSc in Information Technology at Bhavan’s College, Mumbai, I enjoy building scalable, real-world solutions that combine clean user interfaces with robust backend logic.
 
