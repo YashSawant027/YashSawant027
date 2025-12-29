@@ -14,7 +14,7 @@ Turning complex problems into simple, user-friendly solutions
 
 I value clean code, continuous learning, and problem-solving, and I’m actively seeking opportunities where I can contribute, grow, and work on impactful software products.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: React, HTML, CSS, TailwindCSS, Bootstrap
 
@@ -26,7 +26,7 @@ Tools: GitHub, VS Code, Postman, MongoDB Atlas
 
 Concepts: REST APIs, NLP pipelines, LLM integration, data visualization
 
-##🚀 Highlights
+## 🚀 Highlights
 
 Built an NLP-to-SQL application supporting MySQL, PostgreSQL, and MongoDB
 
@@ -34,7 +34,7 @@ Developed an AI-powered health & fitness chatbot using LangChain
 
 Created data-driven dashboards with real-time insights and charts
 
-##📫 Let’s connect:
+## 📫 Let’s connect:
 Email: yashsawan70@gmail.com
 
 Location: Mumbai, India
